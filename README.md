@@ -2,6 +2,6 @@
 Código de los ejemplos que se va subiendo a nuestras redes sociales:
 > Para ejecutar el código debes intalar el el siguiente modulo:
 >
->>wifi_qrcode_generator
+**wifi_qrcode_generator**
 
 Finalmente, antes de ejecutar, asegurate de estar conectado a la red WIFI que deseas generar QR
